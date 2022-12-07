@@ -5,12 +5,7 @@
   font-weight: normal;
   font-style: normal;
 }
-/* =======================================================
-*
-* 	Template Style 
-*	Edit this section
-*
-* ======================================================= */
+
 body {
   font-family: "Open Sans", Arial, sans-serif;
   line-height: 1.6;
@@ -19,7 +14,12 @@ body {
   color: #848484;
   font-weight: 300;
   overflow-x: hidden;
+
 }
+.imgs{
+  width: 150%;
+}
+
 body.fh5co-offcanvas {
   overflow: hidden;
 }
